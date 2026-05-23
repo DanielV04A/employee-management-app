@@ -1,5 +1,5 @@
 # employee-management-app
-This is m yfirst app
+This is my employee managment app
 # Employee Management CRUD App
 
 This is a Django-based web application for managing employee records.
